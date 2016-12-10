@@ -12,7 +12,7 @@ G910 Orion Spectrum
 
 ### Install and use :</br>
 ```
-sudo apt-get install g++ libusb-dev make
+sudo apt-get install g++ libusb-dev libusb-1.0-0-dev libusb-1.0-0 make
 make
 cp bin/g810-led /usr/bin
 ```
